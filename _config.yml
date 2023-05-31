@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 title: Minimal theme
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
+=======
+title: Sai Kumar Aili
+description: An adaptable, observant and resilient Data Enthusiast - Motivated to connect data to dollar.
+show_downloads: false
+>>>>>>> e18534b (update config)
 google_analytics:
 theme: jekyll-theme-minimal
