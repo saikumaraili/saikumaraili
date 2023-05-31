@@ -1,4 +1,7 @@
-### Hi there 👋 My name is Sai Kumar Aili, 
+# Sai Kumar Aili
+
+
+Hi there 👋 My name is Sai Kumar Aili, 
 🎓 I'm a graduate student pursuing a degree in Data Analytics Engineering with a focus on `data mining, data warehousing, and database administration`. 
 
 🧭 I'm excited to explore the world of data science and work towards becoming a skilled `data scientist`.
