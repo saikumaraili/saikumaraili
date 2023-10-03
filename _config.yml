@@ -3,4 +3,4 @@ logo: /assets/img/logo.png
 description: An adaptable, observant and resilient Data Enthusiast - Motivated to connect data to dollar.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: minima
