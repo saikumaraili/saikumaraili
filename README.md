@@ -3,7 +3,7 @@ I recently finished my Master's in Data Analytics Engineering at George Mason Un
 
 Now, I'm looking for an opportunity as Data Engineer | Data Analyst | Data Scientist in Technology, Finance, E-commerce, or Healthcare, where I can use my data skills and foundation knowledge to put it into practice. I like solving problems and making things better with data. I'm excited about the future!
 
-## 📱 Contact me at:
+## 📱 Contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumaraili) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=plastic&logo=gmail&logoColor=white)](mailto:aili.connects@gmail.com)
 
