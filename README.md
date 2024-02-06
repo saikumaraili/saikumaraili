@@ -36,3 +36,4 @@ Now, I'm looking for an opportunity as Data Engineer | Data Analyst | Data Scien
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
 ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=plastic&logo=apachekafka&logoColor=white&color=%23231F20) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=Databricks&logoColor=white)
