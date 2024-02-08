@@ -1,3 +1,5 @@
+![Data Analyst](https://github.com/sk-aili/sk-aili/assets/99275093/9c1716a4-9e0b-412e-a72a-1eb42b8f0dea)
+<br>
 #  Hi 👋, it's me, Sai Kumar Aili:
 I recently finished my Master's in Data Analytics Engineering at George Mason University. I learned to use Python and SQL for data analysis, AWS for cloud solutions, and did projects on Big Data Analytics, Machine Learning, and Statistical Modeling.    
 
