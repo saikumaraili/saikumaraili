@@ -1,6 +1,7 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/307b29e6-4ec3-40c1-9f1c-617247e2349e" width="50%">
+    <img src="https://github.com/user-attachments/assets/307b29e6-4ec3-40c1-9f1c-617247e2349e" alt="Sai Kumar Aili" width="50%">
 </div>
+
 
 # Hi, it's me, Sai Kumar Aili. 
 I am a Machine Learning Engineer with experience in developing, deploying and maintaining scalable, flexible systems for core ML services. I have particular interests in statistical learning and building products.
