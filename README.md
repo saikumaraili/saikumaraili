@@ -1,9 +1,11 @@
-![Data Analyst](https://github.com/sk-aili/sk-aili/assets/99275093/9c1716a4-9e0b-412e-a72a-1eb42b8f0dea)
-<br>
-#  Hi 👋, it's me, Sai Kumar Aili:
-I recently finished my Master's in Data Analytics Engineering at George Mason University. I learned to use Python and SQL for data analysis, AWS for cloud solutions, and did projects on Big Data Analytics, Machine Learning, and Statistical Modeling.    
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/307b29e6-4ec3-40c1-9f1c-617247e2349e" width="50%">
+</div>
 
-Now, I'm looking for an opportunity as Data Engineer | Data Analyst | Data Scientist in Technology, Finance, E-commerce, or Healthcare, where I can use my data skills and foundation knowledge to put it into practice. I like solving problems and making things better with data. I'm excited about the future!
+# Hi, it's me, Sai Kumar Aili. 
+I am a Machine Learning Engineer with experience in developing, deploying and maintaining scalable, flexible systems for core ML services. I have particular interests in statistical learning and building products.
+
+I am ambitious to continuously develop in ML and data analysis, and apply this knowledge to a vast range of fields.
 
 ## 📱 Contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumaraili) 
